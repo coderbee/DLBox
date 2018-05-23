@@ -9,6 +9,8 @@ Resources for building your DeepLearning box
 [Installing Anaconda] ()
 
 [Installing fastai ](link)
+http://forums.fast.ai/t/howto-installation-on-windows/10439
+
 
 [Downloading datasets, running experiments]()
 
